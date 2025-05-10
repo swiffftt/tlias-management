@@ -1,0 +1,16 @@
+com\shuaige\pojo\PageResult.class
+com\shuaige\pojo\StudentQueryParam.class
+com\shuaige\pojo\JobOption.class
+com\shuaige\pojo\OperateLog.class
+com\shuaige\pojo\ClazzCountOption.class
+com\shuaige\pojo\StudentCountOption.class
+com\shuaige\pojo\Clazz.class
+com\shuaige\pojo\EmpExpr.class
+com\shuaige\pojo\LoginInfo.class
+com\shuaige\pojo\EmpLog.class
+com\shuaige\pojo\EmpQueryParam.class
+com\shuaige\pojo\Result.class
+com\shuaige\pojo\ClazzQueryParam.class
+com\shuaige\pojo\Student.class
+com\shuaige\pojo\Dept.class
+com\shuaige\pojo\Emp.class
