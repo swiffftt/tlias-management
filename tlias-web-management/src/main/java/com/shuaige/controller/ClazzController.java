@@ -36,7 +36,7 @@ public class ClazzController {
      */
     @GetMapping
     public Result page(ClazzQueryParam clazzQueryParam) {
-        log.info("分页查询班级信息,参数：{}", clazzQueryParam);
+        log.info("分页查询班级信息参数为：{}", clazzQueryParam);
         PageResult<Clazz> pageResult = clazzService.page(clazzQueryParam);
         return Result.success(pageResult);
     }
