@@ -44,7 +44,7 @@ public class ClazzController {
      */
     @PostMapping
     public Result save(@RequestBody Clazz clazz) {
-        log.info("新增班级信息,参数是：{}", clazz);
+        log.info("新增班级信息的参数是---：{}", clazz);
         clazzService.save(clazz);
         return Result.success();
     }
